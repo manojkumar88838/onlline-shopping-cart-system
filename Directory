@@ -1,0 +1,6 @@
+cart = {}
+# Example of the intended structure (uncomment to add items):
+# cart = {
+#     "Laptop": {"price": 1200.00, "quantity": 1},
+#     "Mouse": {"price": 25.00, "quantity": 2}
+# }
